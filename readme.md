@@ -22,4 +22,7 @@ running the app
 - go to directory where there is manage.py file
 - run using command (python manage.py runserver)
 
-
+Forgot password
+- on email id link will be send 
+- click on the link in the email 
+- then reset the password
